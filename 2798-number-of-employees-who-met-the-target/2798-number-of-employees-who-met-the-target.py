@@ -1,7 +1,8 @@
 class Solution:
     def numberOfEmployeesWhoMetTarget(self, hours: List[int], target: int) -> int:
+        n = len(hours)
         count = 0
-        for hour in hours:
-            if hour >= target:
+        for i in range(n):
+            if hours[i] >= target:
                 count += 1
         return count
