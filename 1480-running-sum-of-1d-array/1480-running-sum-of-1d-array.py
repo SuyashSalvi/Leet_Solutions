@@ -2,4 +2,4 @@ from itertools import accumulate
 
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        return list(accumulate(nums))
+        return [sum(nums[:i+1]) for i in range(len(nums))]
