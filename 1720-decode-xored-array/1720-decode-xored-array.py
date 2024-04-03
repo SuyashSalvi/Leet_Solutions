@@ -3,5 +3,4 @@ class Solution:
         ans = [first]
         for n in encoded:
             ans.append(n^ans[-1])
-        print(ans)
         return ans
