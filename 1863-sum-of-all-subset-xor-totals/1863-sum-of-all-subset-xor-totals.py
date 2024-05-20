@@ -1,9 +1,7 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        def dfs(ind, cur_ans):
-            if ind == len(nums):
-                return cur_ans
-            incl = dfs(ind + 1, cur_ans^nums[ind])
-            excl = dfs(ind + 1, cur_ans)
-            return incl + excl
-        return dfs(0,0)
+        n = len(nums)
+        ans = 0
+        for i in nums:
+            ans |= i
+        return ans * 2**(n-1)
