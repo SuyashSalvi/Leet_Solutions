@@ -1,6 +1,6 @@
 class Solution {
     public long countPairs(int[] nums1, int[] nums2) {
-        // 0  6  5 -3 -> -3 0 5 6/ 6 5 0 -3
+        // 0  6  5 -3 -> -3 0 5 6
         int n = nums1.length;
         int[] diff = new int[n];
         for(int i=0;i<n;i++){
