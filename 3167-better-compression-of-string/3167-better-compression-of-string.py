@@ -1,15 +1,18 @@
 class Solution:
     def betterCompression(self, compressed: str) -> str:
-        d, i, n = {}, 0, len(compressed)
-        while i < n: 
-            x, curr = compressed[i], ''
-            while i+1<n and compressed[i+1].isnumeric():
+        d = {}
+        i, n = 0, len(compressed)
+        
+        while i < n:
+            x = compressed[i]
+            i += 1
+            curr = 0
+            while i < n and compressed[i].isnumeric():
+                curr = curr * 10 + int(compressed[i])
                 i += 1
-                curr += compressed[i]
-            if x in d.keys():
-                d[x] += int(curr)
+            if x in d:
+                d[x] += curr
             else:
-                d[x] = int(curr)
-            i +=1
-            
-        return ''.join(x+str(d[x]) for x in sorted(d.keys()))
+                d[x] = curr
+        
+        return ''.join(f'{char}{d[char]}' for char in sorted(d))
