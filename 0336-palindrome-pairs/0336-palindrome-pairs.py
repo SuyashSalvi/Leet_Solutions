@@ -1,22 +1,25 @@
 class Solution:
     def palindromePairs(self, words: List[str]) -> List[List[int]]:
-        words_map = {word : i for i, word in enumerate(words)}
-        print(words_map)
-        answers = []
-        for i, word in enumerate(words):
-            for j in range(len(word)+1):
-                prefix, suffix = word[:j], word[j:]
-                
-                # If prefix is palindrome, reverse the suffix and check if that exists
-                if prefix == prefix[::-1]:
-                    reversed_suffix = suffix[::-1]
-                    if reversed_suffix in words_map and i != words_map[reversed_suffix]:
-                        answers.append([words_map[reversed_suffix],i])
-                
-                # To avoid duplicates, make sure j != len(word)
-                if j != len(word) and suffix == suffix[::-1]:
-                    reversed_prefix = prefix[::-1]
-                    if reversed_prefix in words_map and i != words_map[reversed_prefix]:
-                        answers.append([i,words_map[reversed_prefix]])
+        word_dict = { word: index for index, word in enumerate(words) }
+        result = []
 
-        return answers    
+        for index, word in enumerate(words):
+            for j in range(len(word) + 1):
+                left = word[:j]
+                reversed_left = left[::-1]
+                right = word[j:]
+                reversed_right = right[::-1]
+
+                if reversed_left in word_dict \
+                    and word_dict[reversed_left] != index \
+                    and right == reversed_right:
+                    result.append([index, word_dict[reversed_left]])
+                
+                if j > 0 \
+                    and reversed_right in word_dict \
+                    and word_dict[reversed_right] != index \
+                    and left == reversed_left:
+                    result.append([word_dict[reversed_right], index])
+            
+        
+        return result
