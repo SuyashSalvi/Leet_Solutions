@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Hash Table
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
