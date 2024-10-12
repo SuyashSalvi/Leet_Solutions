@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Heap (Priority Queue)
 |  |
@@ -34,4 +35,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0010-regular-expression-matching) |
+## Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
