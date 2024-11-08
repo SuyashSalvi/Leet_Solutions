@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-minimum-cost-for-tickets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0010-regular-expression-matching) |
+| [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-minimum-cost-for-tickets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 ## Recursion
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
