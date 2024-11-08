@@ -3,7 +3,6 @@ class Solution:
         DAY, WEEK, MONTH = costs[0], costs[1], costs[2]
         cache = {}
         def dp(i) -> int:
-            print("i",i)
             if i in cache: return cache[i]
             if i > len(days) - 1: return 0
             # 1. day choice
