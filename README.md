@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0967-minimum-falling-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
@@ -123,5 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
