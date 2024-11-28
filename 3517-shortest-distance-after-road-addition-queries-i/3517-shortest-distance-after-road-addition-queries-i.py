@@ -45,24 +45,55 @@
 #         return ans
 
 
+# class Solution:
+#     def dpTD(self,n,adj_list,cur_node,dp):
+#         if cur_node == n-1:
+#             return 0
+
+#         if dp[cur_node] != -1:
+#             return dp[cur_node]
+
+#         min_dist = n
+
+#         for neigh in adj_list[cur_node]:
+#             min_dist = min(min_dist, self.dpTD(n,adj_list,neigh,dp)+1)
+#         dp[cur_node] = min_dist
+#         return min_dist
+
+
+#     def shortestDistanceAfterQueries(self, n: int, queries: List[List[int]]) -> List[int]:
+#         dp = [-1] * n
+#         adj_list = [[] for _ in range(n)]
+#         ans = []
+
+#         for i in range(n-1):
+#             adj_list[i].append(i+1)
+
+#         for u, v in queries:
+#             adj_list[u].append(v)
+#             ans.append(self.dpTD(n,adj_list,0,dp))
+#             print(dp,u,v)
+#             dp = [-1] * n
+
+#         return ans
+
+
+
 class Solution:
-    def dpTD(self,n,adj_list,cur_node,dp):
-        if cur_node == n-1:
-            return 0
+    def dpBU(self,n,adj_list):
+        dp = [0] * n
+        dp[n-1] = 0
 
-        if dp[cur_node] != -1:
-            return dp[cur_node]
+        for cur_node in range(n-2,-1,-1):
+            min_dist = n
+            for neigh in adj_list[cur_node]:
+                min_dist = min(min_dist,dp[neigh]+1)
+            dp[cur_node] = min_dist
 
-        min_dist = n
-
-        for neigh in adj_list[cur_node]:
-            min_dist = min(min_dist, self.dpTD(n,adj_list,neigh,dp)+1)
-        dp[cur_node] = min_dist
-        return min_dist
+        return dp[0]
 
 
     def shortestDistanceAfterQueries(self, n: int, queries: List[List[int]]) -> List[int]:
-        dp = [-1] * n
         adj_list = [[] for _ in range(n)]
         ans = []
 
@@ -71,11 +102,8 @@ class Solution:
 
         for u, v in queries:
             adj_list[u].append(v)
-            ans.append(self.dpTD(n,adj_list,0,dp))
-            print(dp,u,v)
-            dp = [-1] * n
+            ans.append(self.dpBU(n,adj_list))
 
         return ans
-
 
          
