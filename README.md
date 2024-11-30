@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,6 +164,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3189-find-champion-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
