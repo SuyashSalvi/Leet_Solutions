@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0221-maximal-square) |
+| [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0787-sliding-puzzle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0967-minimum-falling-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0091-decode-ways](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0097-interleaving-string) |
+| [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0408-valid-word-abbreviation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0408-valid-word-abbreviation) |
 ## Dynamic Programming
 |  |
@@ -82,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0787-sliding-puzzle) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3189-find-champion-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -171,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
