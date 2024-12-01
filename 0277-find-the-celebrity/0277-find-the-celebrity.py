@@ -3,6 +3,10 @@
 # def knows(a: int, b: int) -> bool:
 
 class Solution:
+    @lru_cache(maxsize=None)
+    def cachedKnows(self,a,b):
+        return knows(a,b)
+
     def findCelebrity(self, n: int) -> int:
         self.n = n
         celeb_candidate = 0
@@ -16,6 +20,6 @@ class Solution:
     def is_celeb(self,i):
         for j in range(self.n):
             if i == j: continue
-            if knows(i,j) or not knows(j,i):
+            if self.cachedKnows(i,j) or not self.cachedKnows(j,i):
                 return False
         return True
