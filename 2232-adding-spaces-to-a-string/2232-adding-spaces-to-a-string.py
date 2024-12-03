@@ -1,20 +1,22 @@
 class Solution:
     def addSpaces(self, s: str, spaces: List[int]) -> str:
-        # List to store characters (more efficient than string concatenation)
         result = []
-        space_index = 0
+        # Pre-allocate approximate space for efficiency
+        result = [None] * (len(s) + len(spaces))
 
-        for string_index in range(len(s)):
-            if (
-                space_index < len(spaces)
-                and string_index == spaces[space_index]
-            ):
+        space_index = 0
+        string_index = 0
+
+        for char_index in range(len(s)):
+            if space_index < len(spaces) and char_index == spaces[space_index]:
                 # Insert space at the correct position
-                result.append(" ")
+                result[string_index] = " "
+                string_index += 1
                 space_index += 1
 
             # Append the current character
-            result.append(s[string_index])
+            result[string_index] = s[char_index]
+            string_index += 1
 
-        # Join all characters into final string
-        return "".join(result)
+        # Join the list into a string and return only the used portion
+        return "".join(result[:string_index])
