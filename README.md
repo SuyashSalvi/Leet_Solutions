@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -241,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
