@@ -1,3 +1,14 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        return "{0:b}".format(int(a,2)+int(b,2))
+        n = max(len(a),len(b))
+        a, b = a.zfill(n), b.zfill(n)
+
+        carry = 0
+        res = []
+        for i in range(n-1,-1,-1):
+            carry += int(a[i]) + int(b[i])
+            res.append(str(carry%2))
+            carry //= 2
+
+        if carry == 1: res.append("1")
+        return ''.join(reversed(res))
