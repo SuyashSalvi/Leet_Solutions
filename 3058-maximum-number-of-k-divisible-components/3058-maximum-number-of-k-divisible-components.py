@@ -1,28 +1,28 @@
 class Solution:
-    def dfs(self, node, parent, adj,values, k, component_count):
-        cur_sum = 0
-        for nnode in adj[node]:
-            if nnode != parent:
-                cur_sum += self.dfs(nnode, node, adj, values, k, component_count)
-                cur_sum %= k 
-        
-        cur_sum += values[node]
-        cur_sum %= k
-
-        if cur_sum == 0:
-            component_count[0] += 1
-
-        return cur_sum
-
-
     def maxKDivisibleComponents(self, n: int, edges: List[List[int]], values: List[int], k: int) -> int:
-        adj = [[] for _ in range(n)]
-        for node1, node2 in edges:
-            adj[node1].append(node2)
-            adj[node2].append(node1)
+        # base case
+        if n < 2: return 1
 
-        component_count = [0] #passing by refernce
+        # graph
+        graph = defaultdict(set)
+        res = 0
+        for n1, n2 in edges:
+            graph[n1].add(n2)
+            graph[n2].add(n1)
 
-        self.dfs(0, -1, adj, values, k, component_count)
+        # bfs - from leaf nodes
+        q = deque(node for node, neigh in graph.items() if len(neigh) == 1)
+        while q:
+            node = q.popleft()
+            nnode = (next(iter(graph[node])) if graph[node] else -1)
+            if nnode >= 0:
+                graph[nnode].remove(node)
 
-        return component_count[0]
+            if values[node] % k == 0:
+                res += 1
+            else:
+                values[nnode] += values[node]
+
+            if nnode >= 0 and len(graph[nnode]) == 1:
+                q.append(nnode)
+        return res
