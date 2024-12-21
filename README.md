@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0157-read-n-characters-given-read4](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [0221-maximal-square](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0221-maximal-square) |
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0787-sliding-puzzle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0787-sliding-puzzle) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
+| [0157-read-n-characters-given-read4](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [2232-adding-spaces-to-a-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0157-read-n-characters-given-read4](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [0277-find-the-celebrity](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0277-find-the-celebrity) |
 ## String Matching
 |  |
