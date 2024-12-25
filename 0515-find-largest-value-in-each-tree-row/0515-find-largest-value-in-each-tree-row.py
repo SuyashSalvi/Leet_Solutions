@@ -6,21 +6,17 @@
 #         self.right = right
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
-        if not root:
-            return []
-        q = deque([root])
-        res = []
+        def dfs(node, depth):
+            if not node:
+                return
+            if depth == len(ans):
+                ans.append(node.val)
+            else:
+                ans[depth] = max(ans[depth], node.val)
 
-        while q:
-            cur_largest = float('-inf')
-            
-            for _ in range(len(q)):
-                node = q.popleft()
-                cur_largest = max(cur_largest, node.val)
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
-            res.append(cur_largest)
+            dfs(node.left, depth + 1)
+            dfs(node.right, depth + 1)
 
-        return res
+        ans = []
+        dfs(root, 0)
+        return ans
