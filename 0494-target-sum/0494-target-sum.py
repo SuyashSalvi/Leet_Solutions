@@ -1,49 +1,24 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        self.total_sum = sum(nums)
-        memo = [
-            [float("-inf")] * (2 * self.total_sum + 1) for _ in range(len(nums))
-        ]
-        
-        return self.calculate_ways(nums, 0, 0, target, memo)
+        total_sum = sum(nums)
+        dp = [[0] * (2 * total_sum + 1) for _ in range(len(nums))]
 
-    def calculate_ways(
-        self,
-        nums: List[int],
-        current_index: int,
-        current_sum: int,
-        target: int,
-        memo: List[List[int]],
-    ) -> int:
-        if current_index == len(nums):
-            # Check if the current sum matches the target
-            return 1 if current_sum == target else 0
-        else:
-            # Check if the result is already computed
-            if memo[current_index][current_sum + self.total_sum] != float(
-                "-inf"
-            ):
-                return memo[current_index][current_sum + self.total_sum]
+        dp[0][nums[0] + total_sum] = 1
+        dp[0][-nums[0] + total_sum] += 1
 
-            # Calculate ways by adding the current number
-            add = self.calculate_ways(
-                nums,
-                current_index + 1,
-                current_sum + nums[current_index],
-                target,
-                memo,
-            )
+        for index in range(1, len(nums)):
+            for sum_val in range(-total_sum, total_sum + 1):
+                if dp[index - 1][sum_val + total_sum] > 0:
+                    dp[index][sum_val + nums[index] + total_sum] += dp[
+                        index - 1
+                    ][sum_val + total_sum]
+                    dp[index][sum_val - nums[index] + total_sum] += dp[
+                        index - 1
+                    ][sum_val + total_sum]
 
-            # Calculate ways by subtracting the current number
-            subtract = self.calculate_ways(
-                nums,
-                current_index + 1,
-                current_sum - nums[current_index],
-                target,
-                memo,
-            )
 
-            # Store the result in memoization table
-            memo[current_index][current_sum + self.total_sum] = add + subtract
-
-            return memo[current_index][current_sum + self.total_sum]
+        return (
+            0
+            if abs(target) > total_sum
+            else dp[len(nums) - 1][target + total_sum]
+        )
