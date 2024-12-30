@@ -1,40 +1,39 @@
 class Solution:
     def numWays(self, words, target):
-
+        freq_map = [[0] * 26 for _ in range(len(words[0]))]
         dp = [[-1] * len(target) for _ in range(len(words[0]))]
-        char_frequency = [[0] * 26 for _ in range(len(words[0]))]
 
-        # Store the frequency of every character at every index.
-        for i in range(len(words)):
-            for j in range(len(words[0])):
-                character = ord(words[i][j]) - 97
-                char_frequency[j][character] += 1
-        return self.__get_words(words, target, 0, 0, dp, char_frequency)
+        for word in words:
+            for i in range(len(words[0])):
+                freq_map[i][ord(word[i]) - 97] += 1
 
-    def __get_words(
-        self, words, target, words_index, target_index, dp, char_frequency
-    ):
-        if target_index == len(target):
+        return self._get_possibilities(words, target, freq_map, 0, 0, dp)
+
+    def _get_possibilities(self, words, target, freq_map, wordIndex, targetIndex, dp):
+        # Base cases -------------------------------------:
+        # 1. if we have coivered the entire target successfully, add 1 to ans counter
+        if targetIndex == len(target):
             return 1
-        if (
-            words_index == len(words[0])
-            or len(words[0]) - words_index < len(target) - target_index
-        ):
+        # 2. if we exhausted max word's length or remaining length of target is more than that of remaining word's length we can't proceed further, hence can't add to the ans counter
+        if (wordIndex == len(words[0])) or (len(target) - targetIndex > len(words[0]) - wordIndex):
             return 0
 
-        if dp[words_index][target_index] != -1:
-            return dp[words_index][target_index]
+        # Memoization check -------------------------------------:
+        if dp[wordIndex][targetIndex] != -1:
+            return dp[wordIndex][targetIndex]
 
-        count_ways = 0
-        cur_pos = ord(target[target_index]) - 97
-        # Don't match any character of target with any word.
-        count_ways += self.__get_words(
-            words, target, words_index + 1, target_index, dp, char_frequency
-        )
-        # Multiply the number of choices with getWords and add it to count.
-        count_ways += char_frequency[words_index][cur_pos] * self.__get_words(
-            words, target, words_index + 1, target_index + 1, dp, char_frequency
-        )
+        
+        # Recursive calculation -------------------------------------:
+        countWays = 0
+        curPos = ord(target[targetIndex]) - 97
 
-        dp[words_index][target_index] = count_ways % 1000000007
-        return dp[words_index][target_index]
+        # 1. if we skip the current word Index, to get all the possibilities
+        countWays += self._get_possibilities(words, target, freq_map, wordIndex + 1, targetIndex, dp)
+
+        # 2. if we consider the current word Index
+        countWays += self._get_possibilities(words, target, freq_map, wordIndex + 1, targetIndex + 1, dp) * freq_map[wordIndex][curPos]
+
+
+        dp[wordIndex][targetIndex] = countWays % 1000000007
+
+        return dp[wordIndex][targetIndex]
