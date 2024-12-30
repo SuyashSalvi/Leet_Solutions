@@ -1,42 +1,38 @@
 class Solution:
-    def numWays(self, words, target):
-        freq_map = [[0] * 26 for _ in range(len(words[0]))]
-        dp = [[-1] * len(target) for _ in range(len(words[0]))]
+    def numWays(self, words: List[str], target: str) -> int:
+        word_length = len(words[0])
+        target_length = len(target)
+        mod = 1000000007
 
-        # Creating frequency map for each index of the word
+        # Step 1: Calculate frequency of each character at every index in
+        # "words".
+        char_frequency = [[0] * 26 for _ in range(word_length)]
         for word in words:
-            for i in range(len(words[0])):
-                freq_map[i][ord(word[i]) - 97] += 1
+            for j in range(word_length):
+                char_frequency[j][ord(word[j]) - ord("a")] += 1
 
-        return self._get_possibilities(words, target, freq_map, 0, 0, dp)
+        # Step 2: Initialize a DP table.
+        dp = [[0] * (target_length + 1) for _ in range(word_length + 1)]
 
+        # Base case: There is one way to form an empty target string.
+        for curr_word in range(word_length + 1):
+            dp[curr_word][0] = 1
 
+        # Step 3: Fill the DP table.
+        for curr_word in range(1, word_length + 1):
+            for curr_target in range(1, target_length + 1):
+                # Carry over the previous value (not using this index of
+                # "words").
+                dp[curr_word][curr_target] = dp[curr_word - 1][curr_target]
 
-    def _get_possibilities(self, words, target, freq_map, wordIndex, targetIndex, dp):
-        # Base cases -------------------------------------:
-        # 1. if we have coivered the entire target successfully, add 1 to ans counter
-        if targetIndex == len(target):
-            return 1
-        # 2. if we exhausted max word's length or remaining length of target is more than that of remaining word's length we can't proceed further, hence can't add to the ans counter
-        if (wordIndex == len(words[0])) or (len(target) - targetIndex > len(words[0]) - wordIndex):
-            return 0
+                # Add ways using the current index of "words" if the characters
+                # match.
+                cur_pos = ord(target[curr_target - 1]) - ord("a")
+                dp[curr_word][curr_target] += (
+                    char_frequency[curr_word - 1][cur_pos]
+                    * dp[curr_word - 1][curr_target - 1]
+                ) % mod
+                dp[curr_word][curr_target] %= mod
 
-        # Memoization check -------------------------------------:
-        if dp[wordIndex][targetIndex] != -1:
-            return dp[wordIndex][targetIndex]
-
-        
-        # Recursive calculation -------------------------------------:
-        countWays = 0
-        curPos = ord(target[targetIndex]) - 97
-
-        # 1. if we skip the current word Index, to get all the possibilities
-        countWays += self._get_possibilities(words, target, freq_map, wordIndex + 1, targetIndex, dp)
-
-        # 2. if we consider the current word Index
-        countWays += self._get_possibilities(words, target, freq_map, wordIndex + 1, targetIndex + 1, dp) * freq_map[wordIndex][curPos]
-
-
-        dp[wordIndex][targetIndex] = countWays % 1000000007
-
-        return dp[wordIndex][targetIndex]
+        # Step 4: The result is in dp[word_length][target_length].
+        return dp[word_length][target_length]
