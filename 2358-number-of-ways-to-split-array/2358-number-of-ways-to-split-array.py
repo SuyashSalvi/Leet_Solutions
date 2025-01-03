@@ -1,14 +1,20 @@
 class Solution:
-    def waysToSplitArray(self, nums: List[int]) -> int:
-        res = 0
-        prefix_sum = [0] * len(nums)
-        prefix_sum[0] = nums[0]
+    def waysToSplitArray(self, nums: list[int]) -> int:
+        # Keep track of sum of elements on left and right sides
+        left_sum = right_sum = 0
 
-        for i in range(1, len(nums)):
-            prefix_sum[i] = prefix_sum[i-1] + nums[i]
+        # Initially all elements are on right side
+        right_sum = sum(nums)
 
-        for i in range(len(nums)-1):
-            if 2 * prefix_sum[i] >= prefix_sum[-1]:
-                res += 1
+        # Try each possible split position
+        count = 0
+        for i in range(len(nums) - 1):
+            # Move current element from right to left side
+            left_sum += nums[i]
+            right_sum -= nums[i]
 
-        return res
+            # Check if this creates a valid split
+            if left_sum >= right_sum:
+                count += 1
+
+        return count
