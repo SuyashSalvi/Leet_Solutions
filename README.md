@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -322,4 +325,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
