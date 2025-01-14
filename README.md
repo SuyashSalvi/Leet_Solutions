@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
