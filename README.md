@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1332-count-vowels-permutation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1332-count-vowels-permutation) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Recursion
