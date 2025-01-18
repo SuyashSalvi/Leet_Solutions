@@ -1,21 +1,15 @@
 class Solution:
     def countVowelPermutation(self, n: int) -> int:
+        a = e = i = o = u = 1
         MOD = 10 ** 9 + 7
 
-        @functools.cache
-        def cntV(n, s):
-            total = 1
-            if n > 1:
-                if s == 'a':    
-                    total = (cntV(n-1, 'e') + cntV(n-1, 'u') + cntV(n-1, 'i')) % MOD
-                elif s == 'e':
-                    total = (cntV(n-1, 'a') + cntV(n-1, 'i')) % MOD
-                elif s == 'i':
-                    total = (cntV(n-1, 'e') + cntV(n-1, 'o')) % MOD
-                elif s == 'o':
-                    total = (cntV(n-1, 'i')) % MOD
-                else:
-                    total = (cntV(n-1, 'o') + cntV(n-1, 'i')) % MOD
-            return total
+        for _ in range(1,n):
+            aa = (e + u + i) % MOD
+            ee = (a + i) % MOD
+            ii = (e + o) % MOD
+            oo = (i) % MOD
+            uu = (o + i) % MOD
 
-        return sum(cntV(n,v) for v in 'aeiou') % MOD
+            a, e, i, o, u = aa, ee, ii, oo, uu
+
+        return (a + e + i + o + u) % MOD
