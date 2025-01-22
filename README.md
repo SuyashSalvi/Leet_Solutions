@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
