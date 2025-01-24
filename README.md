@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
 | [2089-maximum-matrix-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0494-target-sum) |
+| [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
 ## Design
 |  |
 | ------- |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
+## Bitmask
+|  |
+| ------- |
+| [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
