@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0120-triangle) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
