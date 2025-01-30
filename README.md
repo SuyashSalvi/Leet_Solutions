@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0091-decode-ways) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0277-find-the-celebrity](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0277-find-the-celebrity) |
 | [0392-is-subsequence](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0408-valid-word-abbreviation) |
