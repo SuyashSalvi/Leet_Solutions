@@ -1,23 +1,21 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         n = len(s)
-        dp = [[False] * n for _ in range(n)]
-        ans = [0, 0]
+        longest_pallindrome = ""
 
-        # for s[i] == s[i], and if s[i] == s[i + 1]
+        def expandAroundCenter(left, right):
+            while left >= 0 and right < n and s[left] == s[right]:
+                left -= 1
+                right += 1
+            return s[left + 1:right]
+
         for i in range(n):
-            dp[i][i] = True
-            if i < n - 1 and s[i] == s[i + 1]:
-                dp[i][i+1] = True
-                ans = [i, i + 1]
-        
+            odd_pallindrome = expandAroundCenter(i, i)
+            even_pallindrome = expandAroundCenter(i, i + 1)
 
-        # checking for other lengths of strings 
-        for diff in range(2, n):
-            for i in range(n - diff):
-                j = i + diff
-                if s[i] == s[j] and dp[i+1][j-1]:
-                    dp[i][j] = True
-                    ans = [i, j]
-        i, j = ans
-        return s[i:j+1]
+            if len(odd_pallindrome) > len(longest_pallindrome):
+                longest_pallindrome = odd_pallindrome
+            if len(even_pallindrome) > len(longest_pallindrome):
+                longest_pallindrome = even_pallindrome
+        
+        return longest_pallindrome
