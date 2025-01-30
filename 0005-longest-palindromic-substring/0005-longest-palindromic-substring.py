@@ -1,21 +1,29 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        n = len(s)
-        longest_pallindrome = ""
+        if not s:
+            return ""
 
-        def expandAroundCenter(left, right):
-            while left >= 0 and right < n and s[left] == s[right]:
-                left -= 1
-                right += 1
-            return s[left + 1:right]
+        # Transform string to handle even-length palindromes uniformly
+        T = "#".join(f"^{s}$")  # Example: "babad" -> "^#b#a#b#a#d#$"
+        n = len(T)
+        P = [0] * n
+        center = right = 0
 
-        for i in range(n):
-            odd_pallindrome = expandAroundCenter(i, i)
-            even_pallindrome = expandAroundCenter(i, i + 1)
+        for i in range(1, n - 1):
+            mirror = 2 * center - i  # Mirror of i with respect to center
 
-            if len(odd_pallindrome) > len(longest_pallindrome):
-                longest_pallindrome = odd_pallindrome
-            if len(even_pallindrome) > len(longest_pallindrome):
-                longest_pallindrome = even_pallindrome
-        
-        return longest_pallindrome
+            if i < right:
+                P[i] = min(right - i, P[mirror])  # Use previously computed palindrome lengths
+
+            # Expand around center
+            while T[i + P[i] + 1] == T[i - P[i] - 1]:
+                P[i] += 1
+
+            # Update center and right boundary
+            if i + P[i] > right:
+                center, right = i, i + P[i]
+
+        # Find the maximum length palindrome
+        max_len, center_index = max((P[i], i) for i in range(1, n - 1))
+        start = (center_index - max_len) // 2  # Convert index back to original string
+        return s[start: start + max_len]
