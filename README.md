@@ -273,11 +273,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1013-fibonacci-number) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
+| [2610-closest-prime-numbers-in-range](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
