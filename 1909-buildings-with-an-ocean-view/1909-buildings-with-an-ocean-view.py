@@ -1,11 +1,18 @@
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
-        cur_tallest = 0
-        res = []
         n = len(heights)
-        for i in range(n-1, -1, -1):
-            if heights[i] > cur_tallest:
-                res.append(i)
-                cur_tallest = heights[i]
+        # monotonically decreasing stack
+        stack = []
+        res = []
+        for current in reversed(range(n)):
+            # checking for buildings with greater height are present
+            while stack and heights[stack[-1]] < heights[current]:
+                stack.pop()
+            # stack empty means no view block
+            if not stack:
+                res.append(current)
 
-        return res[::-1]
+            stack.append(current)
+
+        res.reverse()
+        return res
