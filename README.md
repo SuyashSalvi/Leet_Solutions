@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0076-minimum-window-substring) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0097-interleaving-string) |
 | [0227-basic-calculator-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0227-basic-calculator-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0076-minimum-window-substring) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
