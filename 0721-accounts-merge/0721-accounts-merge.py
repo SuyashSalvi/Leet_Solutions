@@ -28,7 +28,7 @@ class Solution:
            
             first_email = acc[1]
             if first_email not in visited:
-                mergeAccount = [name]
+                mergeAccount = []
                 dfs(first_email, mergeAccount)
-                merged_accounts.append([name] + sorted(mergeAccount[1:]))
+                merged_accounts.append([name] + sorted(mergeAccount))
         return merged_accounts
