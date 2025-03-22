@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 | [0952-word-subsets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0162-find-peak-element) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
+| [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1013-fibonacci-number) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1013-fibonacci-number) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
