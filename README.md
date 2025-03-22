@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0807-custom-sort-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0392-is-subsequence](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0408-valid-word-abbreviation) |
+| [0807-custom-sort-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0952-word-subsets) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0807-custom-sort-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0807-custom-sort-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
