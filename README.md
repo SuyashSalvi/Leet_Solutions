@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0157-read-n-characters-given-read4](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [0162-find-peak-element](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0221-maximal-square) |
+| [0249-group-shifted-strings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0249-group-shifted-strings) |
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0076-minimum-window-substring) |
+| [0249-group-shifted-strings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0249-group-shifted-strings) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0097-interleaving-string) |
 | [0227-basic-calculator-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0249-group-shifted-strings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0249-group-shifted-strings) |
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0392-is-subsequence](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0408-valid-word-abbreviation) |
