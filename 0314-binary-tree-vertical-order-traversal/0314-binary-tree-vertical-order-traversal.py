@@ -9,18 +9,19 @@ class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        columnTable = defaultdict(list)
-        q = deque([(root,0)])
-        minCol, maxCol = 0, 0
 
+        colTable = defaultdict(list)
+        min_col = max_col = 0
+        q = deque()
+        q.append((root, 0))
         while q:
             node, col = q.popleft()
             if node is not None:
-                columnTable[col].append(node.val)
-                minCol = min(minCol,col)
-                maxCol = max(maxCol,col)
+                colTable[col].append(node.val)
+                min_col = min(min_col, col)
+                max_col = max(max_col, col)
 
-                q.append((node.left,col-1))
-                q.append((node.right,col+1))
+                q.append((node.left, col - 1))
+                q.append((node.right, col + 1))
 
-        return [columnTable[x] for x in range(minCol, maxCol+1)]
+        return [colTable[i] for i in range(min_col, max_col + 1)] 
