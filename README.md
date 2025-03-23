@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0807-custom-sort-string) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0787-sliding-puzzle) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
