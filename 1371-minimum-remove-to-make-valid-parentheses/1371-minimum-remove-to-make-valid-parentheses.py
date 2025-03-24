@@ -3,18 +3,17 @@ class Solution:
         indexes_to_remove = set()
         stack = []
         for i, c in enumerate(s):
-            if c not in "()":
-                continue
-            elif c == "(":
+            if c == "(":
                 stack.append(i)
-            elif not stack:
-                indexes_to_remove.add(i)
-            else:
-                stack.pop()
+            elif c == ")":
+                if stack:
+                    stack.pop()
+                else:
+                    indexes_to_remove.add(i)
 
         indexes_to_remove = indexes_to_remove.union(set(stack))
-        string_builder = []
+        res = []
         for i, c in enumerate(s):
             if i not in indexes_to_remove:
-                string_builder.append(c)
-        return "".join(string_builder)
+                res.append(c)
+        return res
