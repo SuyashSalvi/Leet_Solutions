@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0747-min-cost-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0227-basic-calculator-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
