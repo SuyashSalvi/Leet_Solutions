@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0536-construct-binary-tree-from-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0536-construct-binary-tree-from-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0536-construct-binary-tree-from-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0536-construct-binary-tree-from-string) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
