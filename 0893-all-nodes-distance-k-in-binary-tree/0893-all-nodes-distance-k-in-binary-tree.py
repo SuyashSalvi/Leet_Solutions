@@ -8,28 +8,27 @@
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
         graph = defaultdict(list)
-
-        def build_graph(cur, parent):
-            if cur and parent:
-                graph[cur.val].append(parent.val)
-                graph[parent.val].append(cur.val)
-            if cur.left:
-                build_graph(cur.left, cur)
-            if cur.right:
-                build_graph(cur.right, cur)
-
-        build_graph(root, 0)
-
+        def buildGraph(node, parent):
+            if parent:
+                graph[node.val].append(parent.val)
+                graph[parent.val].append(node.val)
+            if node.left:
+                buildGraph(node.left, node)
+            if node.right:
+                buildGraph(node.right, node)
+        
+        buildGraph(root, 0)
+        q = deque()
+        q.append((target.val,0))
+        visited = set([target.val]) 
         res = []
-        visited = set([target.val])
-        q = deque([(target.val, 0)])
         while q:
-            cur, dist = q.popleft()
-            if dist == k:
-                res.append(cur)
+            node, d = q.popleft()
+            if d == k:
+                res.append(node)
                 continue
-            for neigh in graph[cur]:
+            for neigh in graph[node]:
                 if neigh not in visited:
-                    q.append((neigh, dist + 1))
+                    q.append((neigh, d + 1))
                     visited.add(neigh)
         return res
