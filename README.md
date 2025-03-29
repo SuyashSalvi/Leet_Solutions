@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0162-find-peak-element) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0807-custom-sort-string) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0221-maximal-square) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-sliding-puzzle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
