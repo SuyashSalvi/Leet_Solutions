@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 | [0952-word-subsets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1028-interval-list-intersections) |
 | [1063-best-sightseeing-pair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0807-custom-sort-string) |
+| [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2716-prime-subtraction-operation) |
@@ -541,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Line Sweep
 |  |
 | ------- |
@@ -564,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
