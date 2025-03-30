@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0277-find-the-celebrity](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0277-find-the-celebrity) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3189-find-champion-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0157-read-n-characters-given-read4](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [0277-find-the-celebrity](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0277-find-the-celebrity) |
+| [1931-shortest-path-in-a-hidden-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1931-shortest-path-in-a-hidden-grid) |
 ## String Matching
 |  |
 | ------- |
