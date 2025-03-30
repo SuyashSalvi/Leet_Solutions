@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0403-frog-jump) |
+| [0480-sliding-window-median](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0480-sliding-window-median](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0480-sliding-window-median) |
 | [0692-top-k-frequent-words](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0076-minimum-window-substring) |
+| [0480-sliding-window-median](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0480-sliding-window-median) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
