@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [1931-shortest-path-in-a-hidden-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1931-shortest-path-in-a-hidden-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3189-find-champion-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
