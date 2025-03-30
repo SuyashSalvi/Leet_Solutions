@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0536-construct-binary-tree-from-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0536-construct-binary-tree-from-string) |
+| [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0787-sliding-puzzle) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0277-find-the-celebrity) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3189-find-champion-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
 ## Linked List
 |  |
