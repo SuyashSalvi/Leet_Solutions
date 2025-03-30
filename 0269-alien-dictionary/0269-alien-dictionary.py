@@ -6,7 +6,7 @@ class Solution:
         # Step 0: create data structures + the in_degree of each unique letter to 0.
         adj_list = defaultdict(set)
         in_degree = Counter({c: 0 for word in words for c in word})
-
+        print(in_degree)
         # Step 1: We need to populate adj_list and in_degree.
         # For each pair of adjacent words...
         for first_word, second_word in zip(words, words[1:]):
