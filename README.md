@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1184-car-pooling](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1184-car-pooling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-diagonal-traverse-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1539-diagonal-traverse-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1184-car-pooling) |
 | [1539-diagonal-traverse-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1539-diagonal-traverse-ii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1184-car-pooling](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1184-car-pooling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-diagonal-traverse-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1539-diagonal-traverse-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
+| [1184-car-pooling](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1184-car-pooling) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
 | [0157-read-n-characters-given-read4](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
+| [1184-car-pooling](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1184-car-pooling) |
 | [1803-average-waiting-time](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1803-average-waiting-time) |
 | [2232-adding-spaces-to-a-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
