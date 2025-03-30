@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3483-alternating-groups-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
