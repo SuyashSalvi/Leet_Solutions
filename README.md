@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0339-nested-list-weight-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0536-construct-binary-tree-from-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0536-construct-binary-tree-from-string) |
 | [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0339-nested-list-weight-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0339-nested-list-weight-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0721-accounts-merge) |
