@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0480-sliding-window-median](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0480-sliding-window-median) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0277-find-the-celebrity](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0277-find-the-celebrity) |
+| [0295-find-median-from-data-stream](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0408-valid-word-abbreviation) |
 | [0647-palindromic-substrings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0647-palindromic-substrings) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Trie
@@ -636,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
