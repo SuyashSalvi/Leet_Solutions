@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0088-merge-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0091-decode-ways) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0277-find-the-celebrity](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0277-find-the-celebrity) |
 | [0295-find-median-from-data-stream](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0227-basic-calculator-ii) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1909-buildings-with-an-ocean-view](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1909-buildings-with-an-ocean-view) |
