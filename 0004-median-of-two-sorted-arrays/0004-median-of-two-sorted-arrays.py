@@ -1,23 +1,25 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        # n, m, i, j, m1, m2 = len(nums1), len(nums2), 0, 0, 0, 0
-        # for c in range((n+m)//2 + 1):
-        #     m2 = m1
-            
-        #     if i < n and j < m:
-        #         if (nums1[i] < nums2[j]):
-        #             m1 = nums1[i]
-        #             i += 1
-        #         else:
-        #             m1 = nums2[j]
-        #             j += 1
-        #     elif i < n:
-        #         m1 = nums1[i]
-        #         i += 1
-        #     else:
-        #         m1 = nums2[j]
-        #         j+=1
+        if len(nums1) > len(nums2):
+            return self.findMedianSortedArrays(nums2, nums1)
+        
+        m, n = len(nums1), len(nums2)
+        left, right = 0, m
+        while left <= right:
+            partitionA = (left + right) // 2
+            partitionB = (m + n + 1) // 2 - partitionA
 
-        # return float(m1) if (n+m) % 2 == 1 else (float(m1)+float(m2))/2.0
+            maxLeftA = (float('-inf') if partitionA == 0 else nums1[partitionA - 1])
+            maxLeftB = (float('-inf') if partitionB == 0 else nums2[partitionB - 1])
+            minRightA = (float('inf') if partitionA == m else nums1[partitionA])
+            minRightB = (float('inf') if partitionB == n else nums2[partitionB])
 
-        return median(sorted(nums1+nums2))
+            if maxLeftA <= minRightB and maxLeftB <= minRightA:
+                if (m + n) % 2 == 0:
+                    return (max(maxLeftA, maxLeftB) + min(minRightA, minRightB)) / 2
+                else:
+                    return max(maxLeftA, maxLeftB)
+            elif maxLeftA > minRightB:
+                right = partitionA - 1
+            else:
+                left = partitionA + 1
