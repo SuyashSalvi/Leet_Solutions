@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0403-frog-jump) |
+| [0465-optimal-account-balancing](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0465-optimal-account-balancing) |
 | [0480-sliding-window-median](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0403-frog-jump) |
+| [0465-optimal-account-balancing](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
+| [0465-optimal-account-balancing](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0465-optimal-account-balancing) |
 | [1940-maximum-xor-for-each-query](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2062-game-of-nim](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2062-game-of-nim) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0465-optimal-account-balancing](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0465-optimal-account-balancing) |
 | [0494-target-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0494-target-sum) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
 ## Design
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0465-optimal-account-balancing](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0465-optimal-account-balancing) |
 | [2078-maximum-compatibility-score-sum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/2078-maximum-compatibility-score-sum) |
 ## Memoization
 |  |
