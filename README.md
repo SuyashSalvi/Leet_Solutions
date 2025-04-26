@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0249-group-shifted-strings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0249-group-shifted-strings) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0336-palindrome-pairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0336-palindrome-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0249-group-shifted-strings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0249-group-shifted-strings) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0912-random-pick-with-weight](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0912-random-pick-with-weight) |
