@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0157-read-n-characters-given-read4](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0157-read-n-characters-given-read4) |
 | [0162-find-peak-element](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0249-group-shifted-strings](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0249-group-shifted-strings) |
 | [0269-alien-dictionary](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -470,11 +473,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SuyashSalvi/Leet_Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Simulation
