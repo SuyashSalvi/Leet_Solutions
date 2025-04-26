@@ -12,11 +12,11 @@ class Solution:
             return 0
 
         # Unlimited transactions case
-        if k >= n // 2:
-            profit = 0
-            for i in range(1, n):
-                profit += max(0, prices[i] - prices[i-1])
-            return profit
+        # if k >= n // 2:
+        #     profit = 0
+        #     for i in range(1, n):
+        #         profit += max(0, prices[i] - prices[i-1])
+        #     return profit
 
         # buy[t]: max profit after t buys (holding stock)
         # sell[t]: max profit after t sells (no stock)
