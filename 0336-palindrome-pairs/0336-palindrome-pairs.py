@@ -1,25 +1,32 @@
+from typing import List
+
 class Solution:
     def palindromePairs(self, words: List[str]) -> List[List[int]]:
-        word_dict = { word: index for index, word in enumerate(words) }
-        result = []
+        # Map each reversed word to its index
+        rev_map = {word[::-1]: i for i, word in enumerate(words)}
+        ans = []
 
-        for index, word in enumerate(words):
-            for j in range(len(word) + 1):
-                left = word[:j]
-                reversed_left = left[::-1]
-                right = word[j:]
-                reversed_right = right[::-1]
+        def is_pal(s: str) -> bool:
+            # Check palindrome in O(len(s))
+            return s == s[::-1]
 
-                if reversed_left in word_dict \
-                    and word_dict[reversed_left] != index \
-                    and right == reversed_right:
-                    result.append([index, word_dict[reversed_left]])
-                
-                if j > 0 \
-                    and reversed_right in word_dict \
-                    and word_dict[reversed_right] != index \
-                    and left == reversed_left:
-                    result.append([word_dict[reversed_right], index])
-            
-        
-        return result
+        # For each word, try every split
+        for i, w in enumerate(words):
+            L = len(w)
+            for k in range(L+1):
+                pref, suf = w[:k], w[k:]
+
+                # Case 1: pref is palindrome -> need rev_suf on left
+                if is_pal(pref):
+                    j = rev_map.get(suf)
+                    if j is not None and j != i:
+                        ans.append([j, i])
+
+                # Case 2: suf is palindrome -> need rev_pref on right
+                # k < L avoids duplicating the empty‐prefix case twice
+                if k < L and is_pal(suf):
+                    j = rev_map.get(pref)
+                    if j is not None and j != i:
+                        ans.append([i, j])
+
+        return ans
